@@ -16,7 +16,8 @@
 		"url": "https://github.com/andrewmcnamara/arduino-nodule/issues"
 	},
 	"dependencies": {
-    "duino":"*"
+    "duino":"*",
+    "serialport":"*" 
 	}
 
 }
